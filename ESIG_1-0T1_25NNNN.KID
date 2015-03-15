@@ -315,6 +315,5 @@ ESL L +^VA(200,DUZ):1 G ESL:'$T D ^DIE L -^VA(200,DUZ)
 "RTN","VWESIG",39,0)
  
 "VER")
-8.0^22.2
-**END**
+8.0^22.0**END**
 **END**
